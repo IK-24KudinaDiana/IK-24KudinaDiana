@@ -41,5 +41,4 @@
 <h2>📫 Reach me on</h2>
 <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github">
-![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github">(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>&nbsp;&nbsp;&nbsp;&nbsp;
